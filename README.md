@@ -25,7 +25,7 @@ Lecture portion of the digital-logic + RISC-V architecture course. Paired with *
 - **RISC-V assembly** — `.asm` files; assembled to `.hex` for FPGA execution
 - **Intel/Altera DE-series FPGA boards** — target hardware
 
-## Key concepts to revisit (for interview / future ref)
+## Key concepts (for future ref)
 
 - Two's complement, sign extension, overflow detection
 - K-map minimization → SOP / POS forms
