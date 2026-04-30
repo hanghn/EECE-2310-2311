@@ -1,6 +1,6 @@
 # EECE2310 — Intro to Digital Design and Computer Architecture (Lecture)
 
-Northeastern University, Summer 2 2025. Lecture portion of the digital-logic + RISC-V architecture course. Paired with **EECE2311** (lab) — see `~/Documents/EECE2311 - Lab/`.
+Lecture portion of the digital-logic + RISC-V architecture course. Paired with **EECE2311** (lab).
 
 ## Course coverage
 
