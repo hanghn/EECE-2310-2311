@@ -34,11 +34,6 @@ Lecture portion of the digital-logic + RISC-V architecture course. Paired with *
 - RISC-V register conventions (x0–x31, ABI names)
 - Common RISC-V instructions: `add`, `sub`, `lw`, `sw`, `beq`, `jal`, `addi`
 
-## Quick refs
-
-- RISC-V instruction encoding: see `EECE2310_RISC-V References.pdf`
-- Hex / binary conversion: `Hexadecimal-Number-System.webp`
-
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
@@ -70,10 +65,6 @@ Each `lab*/` folder contains:
   - `*.bdf` — Quartus block-design files (schematic-style FPGA design)
   - `*.bsf` — Quartus block-symbol files (reusable component symbols)
   - `*.MOV` — demo videos of working hardware (where required)
-
-Top-level files:
-
-- `EECE2311_SM25_Syllabus.pdf` — lab course syllabus
 
 ## Tools used
 
