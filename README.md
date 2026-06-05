@@ -89,6 +89,6 @@ The required structure expects:
 
 - **Quartus projects** open from the `.qpf` file (if present) or by adding `.bdf` files into a new project
 - **For hex files**: opening in a hex editor is more useful than a text editor
-- **Lab 7's single-cycle processor**: the most polished integration — see also "lab7_single_cycle_processor" which has additional supporting files
+- **Lab 7's single-cycle processor**: see also "lab7_single_cycle_processor" which has additional supporting files
 
 
